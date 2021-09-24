@@ -1,0 +1,113 @@
+@import url('https://fonts.googleapis.com/css2?family=Raleway:wght@100&family=Rubik:wght@300&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=DM+Serif+Display&display=swap');
+body {
+        background-image: url(background.1.jpg);}
+    
+    .circle img{
+        width: 130px;
+        height: 130px;
+        border-radius: 50%;
+        margin: auto;
+        border: 4px solid rgb(245, 238, 238);
+    }
+
+    :root {
+        --warnaabu: rgb(95, 91, 91);
+    }
+
+    .name {
+        background-color: var(--warnaabu);
+        width: 40%;
+        height: 30px;
+        padding-left: 2px;
+        color: beige;
+        font-size: 15px;
+        font-family: 'Rubik', sans-serif;
+    }
+    .nama {
+        background-color: var(--warnaabu);
+        width: 40%;
+        height: 30px;
+        padding-left: 2px;
+        color: beige;
+        font-family: 'Rubik', sans-serif;
+    }
+    
+    .putri {
+        background-color: var(--warnaabu);
+        width: 40%;
+        height: 30px;
+        padding-left: 2px;
+        color: beige;
+       font-family: 'Rubik', sans-serif;
+    }
+    
+    .nuryanie {
+        background-color: var(--warnaabu);
+        width: 50%;
+        height: 30px;
+        padding-left: 2px;
+        color: beige;
+       font-family: 'Rubik', sans-serif;
+    }
+    
+    .wijaya {
+        background-color: var(--warnaabu);
+        width: 40%;
+        height: 30px;
+        padding-left: 2px;
+        color: beige;
+       font-family: 'Rubik', sans-serif;
+    }
+
+    .paragraf-1{
+        font-family: 'Raleway', sans-serif;
+        font-weight: 700;
+        font-size: 13px;
+        color: black;
+    }
+
+    .paragraf-2{
+        font-family: 'Raleway', sans-serif;
+        font-weight: 700;
+        font-size: 13px;
+        color: black;
+    }
+    
+    .paragraf-3{
+        font-size: 13px;
+        font-family: 'Raleway', sans-serif;
+        font-weight: 1000;
+        color: black;
+    }
+
+    .paragraf-4{
+        font-family: 'Raleway', sans-serif;
+        font-weight: 700;
+        font-size: 13px;
+        color: black;
+    }
+
+    .paragraf-5{
+        font-family: 'Raleway', sans-serif;
+        font-weight: 700;
+        font-size: 13px;
+        color: black;
+    }
+
+    .konten-1 {
+        float: left;
+        
+    }
+
+    .konten-2{
+        float: right;
+    }
+
+    .paragraf-7{
+        font-family: 'DM Serif Display', serif;
+        color: rgb(80, 79, 79);
+        font-size: 40px;
+
+    }
+
